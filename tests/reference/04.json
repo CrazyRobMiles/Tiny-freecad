@@ -1,0 +1,56 @@
+{
+ "script": "examples/04 Velcro Cards/VelcroCards.py",
+ "error": null,
+ "seconds": 4.64,
+ "documents": [
+  "Lumpy Card"
+ ],
+ "objects": [
+  {
+   "name": "Top",
+   "label": "Top",
+   "type": "Part::Feature",
+   "shape_type": "Compound",
+   "volume": 21265.0,
+   "area": 14986.0,
+   "bound_box": [
+    0.0,
+    0.0,
+    0.0,
+    100.0,
+    50.0,
+    5.0
+   ],
+   "solids": 1,
+   "color": [
+    0.678,
+    0.71,
+    0.741
+   ]
+  },
+  {
+   "name": "Bottom",
+   "label": "Bottom",
+   "type": "Part::Feature",
+   "shape_type": "Compound",
+   "volume": 25976.1,
+   "area": 12894.4,
+   "bound_box": [
+    110.0,
+    0.0,
+    0.0,
+    210.0,
+    50.0,
+    6.5
+   ],
+   "solids": 1,
+   "color": [
+    0.678,
+    0.71,
+    0.741
+   ]
+  }
+ ],
+ "files": [],
+ "made_by": "FreeCAD 1.0.2"
+}

@@ -1,0 +1,34 @@
+{
+ "script": "examples/26 Pipe path/PipePath.py",
+ "error": null,
+ "seconds": 0.59,
+ "documents": [
+  "PipePath"
+ ],
+ "objects": [
+  {
+   "name": "PipePath",
+   "label": "PipePath",
+   "type": "Part::Feature",
+   "shape_type": "Solid",
+   "volume": 8562.37,
+   "area": 5708.25,
+   "bound_box": [
+    -2.99884,
+    -2.99884,
+    -2.99971,
+    102.999,
+    62.9988,
+    2.99971
+   ],
+   "solids": 1,
+   "color": [
+    0.2,
+    0.55,
+    0.85
+   ]
+  }
+ ],
+ "files": [],
+ "made_by": "FreeCAD 1.0.2"
+}

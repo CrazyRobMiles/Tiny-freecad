@@ -1,0 +1,364 @@
+{
+ "script": "examples/09 Round Boxes/roundBoxes.py",
+ "error": null,
+ "seconds": 0.67,
+ "documents": [
+  "Round Boxes"
+ ],
+ "objects": [
+  {
+   "name": "Round_Box100",
+   "label": "Round_Box100",
+   "type": "Part::Feature",
+   "shape_type": "Compound",
+   "volume": 40922.4,
+   "area": 44598.0,
+   "bound_box": [
+    -49.9807,
+    0.00483076,
+    0.0,
+    50.0,
+    99.9952,
+    48.0
+   ],
+   "solids": 1,
+   "color": [
+    0.678,
+    0.71,
+    0.741
+   ]
+  },
+  {
+   "name": "Round_Lid_100",
+   "label": "Round_Lid_100",
+   "type": "Part::Feature",
+   "shape_type": "Compound",
+   "volume": 11275.2,
+   "area": 22864.5,
+   "bound_box": [
+    60.0193,
+    0.00483076,
+    0.0,
+    160.0,
+    99.9952,
+    12.0
+   ],
+   "solids": 1,
+   "color": [
+    0.678,
+    0.71,
+    0.741
+   ]
+  },
+  {
+   "name": "Round_Box90",
+   "label": "Round_Box90",
+   "type": "Part::Feature",
+   "shape_type": "Compound",
+   "volume": 32876.8,
+   "area": 35902.1,
+   "bound_box": [
+    -44.9826,
+    110.004,
+    0.0,
+    45.0,
+    199.996,
+    43.0
+   ],
+   "solids": 1,
+   "color": [
+    0.678,
+    0.71,
+    0.741
+   ]
+  },
+  {
+   "name": "Round_Lid_90",
+   "label": "Round_Lid_90",
+   "type": "Part::Feature",
+   "shape_type": "Compound",
+   "volume": 9157.74,
+   "area": 18598.2,
+   "bound_box": [
+    55.0174,
+    110.004,
+    0.0,
+    145.0,
+    199.996,
+    11.0
+   ],
+   "solids": 1,
+   "color": [
+    0.678,
+    0.71,
+    0.741
+   ]
+  },
+  {
+   "name": "Round_Box80",
+   "label": "Round_Box80",
+   "type": "Part::Feature",
+   "shape_type": "Compound",
+   "volume": 25710.8,
+   "area": 28148.7,
+   "bound_box": [
+    -39.9845,
+    210.004,
+    0.0,
+    40.0,
+    289.996,
+    38.0
+   ],
+   "solids": 1,
+   "color": [
+    0.678,
+    0.71,
+    0.741
+   ]
+  },
+  {
+   "name": "Round_Lid_80",
+   "label": "Round_Lid_80",
+   "type": "Part::Feature",
+   "shape_type": "Compound",
+   "volume": 7260.22,
+   "area": 14771.8,
+   "bound_box": [
+    50.0155,
+    210.004,
+    0.0,
+    130.0,
+    289.996,
+    10.0
+   ],
+   "solids": 1,
+   "color": [
+    0.678,
+    0.71,
+    0.741
+   ]
+  },
+  {
+   "name": "Round_Box70",
+   "label": "Round_Box70",
+   "type": "Part::Feature",
+   "shape_type": "Compound",
+   "volume": 19424.5,
+   "area": 21337.7,
+   "bound_box": [
+    -34.9865,
+    300.003,
+    0.0,
+    35.0,
+    369.997,
+    33.0
+   ],
+   "solids": 1,
+   "color": [
+    0.678,
+    0.71,
+    0.741
+   ]
+  },
+  {
+   "name": "Round_Lid_70",
+   "label": "Round_Lid_70",
+   "type": "Part::Feature",
+   "shape_type": "Compound",
+   "volume": 5582.61,
+   "area": 11385.1,
+   "bound_box": [
+    45.0135,
+    300.003,
+    0.0,
+    115.0,
+    369.997,
+    9.0
+   ],
+   "solids": 1,
+   "color": [
+    0.678,
+    0.71,
+    0.741
+   ]
+  },
+  {
+   "name": "Round_Box60",
+   "label": "Round_Box60",
+   "type": "Part::Feature",
+   "shape_type": "Compound",
+   "volume": 14017.8,
+   "area": 15469.2,
+   "bound_box": [
+    -29.9884,
+    380.003,
+    0.0,
+    30.0,
+    439.997,
+    28.0
+   ],
+   "solids": 1,
+   "color": [
+    0.678,
+    0.71,
+    0.741
+   ]
+  },
+  {
+   "name": "Round_Lid_60",
+   "label": "Round_Lid_60",
+   "type": "Part::Feature",
+   "shape_type": "Compound",
+   "volume": 4124.91,
+   "area": 8438.32,
+   "bound_box": [
+    40.0116,
+    380.003,
+    0.0,
+    100.0,
+    439.997,
+    8.0
+   ],
+   "solids": 1,
+   "color": [
+    0.678,
+    0.71,
+    0.741
+   ]
+  },
+  {
+   "name": "Round_Box50",
+   "label": "Round_Box50",
+   "type": "Part::Feature",
+   "shape_type": "Compound",
+   "volume": 9490.75,
+   "area": 10543.2,
+   "bound_box": [
+    -24.9903,
+    450.002,
+    0.0,
+    25.0,
+    499.998,
+    23.0
+   ],
+   "solids": 1,
+   "color": [
+    0.678,
+    0.71,
+    0.741
+   ]
+  },
+  {
+   "name": "Round_Lid_50",
+   "label": "Round_Lid_50",
+   "type": "Part::Feature",
+   "shape_type": "Compound",
+   "volume": 2887.12,
+   "area": 5931.33,
+   "bound_box": [
+    35.0097,
+    450.002,
+    0.0,
+    85.0,
+    499.998,
+    7.0
+   ],
+   "solids": 1,
+   "color": [
+    0.678,
+    0.71,
+    0.741
+   ]
+  },
+  {
+   "name": "Round_Box40",
+   "label": "Round_Box40",
+   "type": "Part::Feature",
+   "shape_type": "Compound",
+   "volume": 5843.36,
+   "area": 6559.65,
+   "bound_box": [
+    -19.9923,
+    510.002,
+    0.0,
+    20.0,
+    549.998,
+    18.0
+   ],
+   "solids": 1,
+   "color": [
+    0.678,
+    0.71,
+    0.741
+   ]
+  },
+  {
+   "name": "Round_Lid_40",
+   "label": "Round_Lid_40",
+   "type": "Part::Feature",
+   "shape_type": "Compound",
+   "volume": 1869.25,
+   "area": 3864.16,
+   "bound_box": [
+    30.0077,
+    510.002,
+    0.0,
+    70.0,
+    549.998,
+    6.0
+   ],
+   "solids": 1,
+   "color": [
+    0.678,
+    0.71,
+    0.741
+   ]
+  },
+  {
+   "name": "Round_Box30",
+   "label": "Round_Box30",
+   "type": "Part::Feature",
+   "shape_type": "Compound",
+   "volume": 3075.62,
+   "area": 3518.58,
+   "bound_box": [
+    -14.9942,
+    560.001,
+    0.0,
+    15.0,
+    589.999,
+    13.0
+   ],
+   "solids": 1,
+   "color": [
+    0.678,
+    0.71,
+    0.741
+   ]
+  },
+  {
+   "name": "Round_Lid_30",
+   "label": "Round_Lid_30",
+   "type": "Part::Feature",
+   "shape_type": "Compound",
+   "volume": 1071.28,
+   "area": 2236.81,
+   "bound_box": [
+    25.0058,
+    560.001,
+    0.0,
+    55.0,
+    589.999,
+    5.0
+   ],
+   "solids": 1,
+   "color": [
+    0.678,
+    0.71,
+    0.741
+   ]
+  }
+ ],
+ "files": [],
+ "made_by": "FreeCAD 1.0.2"
+}

@@ -1,0 +1,56 @@
+{
+ "script": "examples/19 Tag with embedded text/TagWithEmbeddedText.py",
+ "error": null,
+ "seconds": 0.51,
+ "documents": [
+  "Tag with Text"
+ ],
+ "objects": [
+  {
+   "name": "IMMYBase",
+   "label": "IMMYBase",
+   "type": "Part::Feature",
+   "shape_type": "Compound",
+   "volume": 8925.08,
+   "area": 8600.19,
+   "bound_box": [
+    0.0,
+    -2.66454e-15,
+    0.0,
+    129.363,
+    30.0,
+    3.0
+   ],
+   "solids": 1,
+   "color": [
+    0.678,
+    0.71,
+    0.741
+   ]
+  },
+  {
+   "name": "IMMYText",
+   "label": "IMMYText",
+   "type": "Part::Feature",
+   "shape_type": "Compound",
+   "volume": 1485.89,
+   "area": 3581.25,
+   "bound_box": [
+    4.44089e-16,
+    1.0,
+    2.0,
+    99.3685,
+    29.0,
+    3.0
+   ],
+   "solids": 4,
+   "color": [
+    0.678,
+    0.71,
+    0.741
+   ]
+  }
+ ],
+ "files": [],
+ "made_by": "FreeCAD 1.0.2"
+}

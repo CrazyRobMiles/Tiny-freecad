@@ -1,0 +1,56 @@
+{
+ "script": "examples/05 Pendant Pair/PendantPair.py",
+ "error": null,
+ "seconds": 1.86,
+ "documents": [
+  "Pendant Pair"
+ ],
+ "objects": [
+  {
+   "name": "Pendant_1",
+   "label": "Pendant_1",
+   "type": "Part::Feature",
+   "shape_type": "Compound",
+   "volume": 5037.27,
+   "area": 4478.35,
+   "bound_box": [
+    -12.4953,
+    0.0,
+    0.0,
+    50.0,
+    25.0,
+    6.79872
+   ],
+   "solids": 1,
+   "color": [
+    0.678,
+    0.71,
+    0.741
+   ]
+  },
+  {
+   "name": "Pendant_2",
+   "label": "Pendant_2",
+   "type": "Part::Feature",
+   "shape_type": "Compound",
+   "volume": 5383.53,
+   "area": 4449.16,
+   "bound_box": [
+    55.0047,
+    0.0,
+    0.0,
+    117.5,
+    25.0,
+    6.96532
+   ],
+   "solids": 1,
+   "color": [
+    0.678,
+    0.71,
+    0.741
+   ]
+  }
+ ],
+ "files": [],
+ "made_by": "FreeCAD 1.0.2"
+}

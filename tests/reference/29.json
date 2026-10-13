@@ -1,0 +1,151 @@
+{
+ "script": "examples/29 Random jigsaw/randomjigsaw.py",
+ "error": null,
+ "seconds": 24.75,
+ "documents": [
+  "RandomJigsawPuzzle"
+ ],
+ "objects": [
+  {
+   "name": "jigsaw",
+   "label": "jigsaw",
+   "type": "Part::Feature",
+   "shape_type": "Compound",
+   "volume": 2550.41,
+   "area": 8046.99,
+   "bound_box": [
+    0.0,
+    -2.29621e-17,
+    -3.41781e-16,
+    128.0,
+    93.0,
+    4.2
+   ],
+   "solids": 5,
+   "color": [
+    0.678,
+    0.71,
+    0.741
+   ]
+  },
+  {
+   "name": "Base",
+   "label": "Base",
+   "type": "Part::Feature",
+   "shape_type": "Compound",
+   "volume": 33899.7,
+   "area": 28707.0,
+   "bound_box": [
+    0.0,
+    -2.29621e-17,
+    -3.41994e-16,
+    128.0,
+    93.0,
+    3.0
+   ],
+   "solids": 12,
+   "color": [
+    0.2,
+    0.15,
+    0.1
+   ]
+  },
+  {
+   "name": "C010201",
+   "label": "C010201",
+   "type": "Part::Feature",
+   "shape_type": "Compound",
+   "volume": 3927.14,
+   "area": 15646.8,
+   "bound_box": [
+    0.0,
+    2.0,
+    3.0,
+    128.0,
+    93.0,
+    4.2
+   ],
+   "solids": 470,
+   "color": [
+    0.004,
+    0.008,
+    0.004
+   ]
+  },
+  {
+   "name": "C151310",
+   "label": "C151310",
+   "type": "Part::Feature",
+   "shape_type": "Compound",
+   "volume": 3509.3,
+   "area": 14361.2,
+   "bound_box": [
+    0.0,
+    -2.29621e-17,
+    3.0,
+    128.0,
+    91.0,
+    4.2
+   ],
+   "solids": 597,
+   "color": [
+    0.082,
+    0.075,
+    0.063
+   ]
+  },
+  {
+   "name": "C5A625D",
+   "label": "C5A625D",
+   "type": "Part::Feature",
+   "shape_type": "Compound",
+   "volume": 2820.09,
+   "area": 12110.6,
+   "bound_box": [
+    8.0,
+    11.0,
+    3.0,
+    123.0,
+    88.0,
+    4.2
+   ],
+   "solids": 687,
+   "color": [
+    0.353,
+    0.384,
+    0.365
+   ]
+  },
+  {
+   "name": "CC6C8BD",
+   "label": "CC6C8BD",
+   "type": "Part::Feature",
+   "shape_type": "Compound",
+   "volume": 3303.63,
+   "area": 13418.6,
+   "bound_box": [
+    10.0,
+    12.0,
+    3.0,
+    122.0,
+    88.0,
+    4.2
+   ],
+   "solids": 461,
+   "color": [
+    0.776,
+    0.784,
+    0.741
+   ]
+  }
+ ],
+ "files": [
+  "base_plate.stl",
+  "colour_1_010201.stl",
+  "colour_2_151310.stl",
+  "colour_3_5A625D.stl",
+  "colour_4_C6C8BD.stl",
+  "preview.png"
+ ],
+ "made_by": "FreeCAD 1.0.2"
+}

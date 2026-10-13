@@ -1,0 +1,74 @@
+{
+ "script": "examples/16 Rounded Rectangle Path/RoundedRectanglePath.py",
+ "error": null,
+ "seconds": 2.16,
+ "documents": [
+  "Rounded Rectangle Path"
+ ],
+ "objects": [
+  {
+   "name": "Text",
+   "label": "v1",
+   "type": "App::FeaturePython"
+  },
+  {
+   "name": "Text001",
+   "label": "v2",
+   "type": "App::FeaturePython"
+  },
+  {
+   "name": "Text002",
+   "label": "v3",
+   "type": "App::FeaturePython"
+  },
+  {
+   "name": "Text003",
+   "label": "v4",
+   "type": "App::FeaturePython"
+  },
+  {
+   "name": "Text004",
+   "label": "e4",
+   "type": "App::FeaturePython"
+  },
+  {
+   "name": "Text005",
+   "label": "e3",
+   "type": "App::FeaturePython"
+  },
+  {
+   "name": "Text006",
+   "label": "e2",
+   "type": "App::FeaturePython"
+  },
+  {
+   "name": "Text007",
+   "label": "e1",
+   "type": "App::FeaturePython"
+  },
+  {
+   "name": "Rounded_Rectangle",
+   "label": "Rounded_Rectangle",
+   "type": "Part::Feature",
+   "shape_type": "Solid",
+   "volume": 29908.7,
+   "area": 13606.2,
+   "bound_box": [
+    0.0,
+    0.0,
+    0.0,
+    124.991,
+    50.0,
+    5.0
+   ],
+   "solids": 1,
+   "color": [
+    0.678,
+    0.71,
+    0.741
+   ]
+  }
+ ],
+ "files": [],
+ "made_by": "FreeCAD 1.0.2"
+}

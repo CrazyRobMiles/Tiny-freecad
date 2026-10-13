@@ -1,0 +1,56 @@
+{
+ "script": "examples/21 Party Tags/PartyTags.py",
+ "error": null,
+ "seconds": 0.97,
+ "documents": [
+  "Tag with Text"
+ ],
+ "objects": [
+  {
+   "name": "Base",
+   "label": "Base",
+   "type": "Part::Feature",
+   "shape_type": "Compound",
+   "volume": 6511.23,
+   "area": 7289.25,
+   "bound_box": [
+    0.0,
+    0.0,
+    0.0,
+    187.098,
+    15.0,
+    3.0
+   ],
+   "solids": 3,
+   "color": [
+    0.678,
+    0.71,
+    0.741
+   ]
+  },
+  {
+   "name": "Text",
+   "label": "Text",
+   "type": "Part::Feature",
+   "shape_type": "Compound",
+   "volume": 938.463,
+   "area": 2686.58,
+   "bound_box": [
+    0.0,
+    0.773256,
+    2.0,
+    172.101,
+    14.2267,
+    3.0
+   ],
+   "solids": 11,
+   "color": [
+    0.678,
+    0.71,
+    0.741
+   ]
+  }
+ ],
+ "files": [],
+ "made_by": "FreeCAD 1.0.2"
+}

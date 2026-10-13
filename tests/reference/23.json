@@ -1,0 +1,129 @@
+{
+ "script": "examples/23 Dot Matrix from Image/DotMatrixFromImage.py",
+ "error": null,
+ "seconds": 31.39,
+ "documents": [
+  "DotImage"
+ ],
+ "objects": [
+  {
+   "name": "Base",
+   "label": "Base",
+   "type": "Part::Feature",
+   "shape_type": "Solid",
+   "volume": 12800.0,
+   "area": 32404.8,
+   "bound_box": [
+    0.0,
+    0.0,
+    0.0,
+    128.0,
+    125.0,
+    0.8
+   ],
+   "solids": 1,
+   "color": [
+    0.1,
+    0.1,
+    0.1
+   ]
+  },
+  {
+   "name": "C2E2022",
+   "label": "C2E2022",
+   "type": "Part::Feature",
+   "shape_type": "Compound",
+   "volume": 1805.76,
+   "area": 15048.0,
+   "bound_box": [
+    0.2,
+    4.2,
+    0.8,
+    113.8,
+    117.8,
+    2.0
+   ],
+   "solids": 4180,
+   "color": [
+    0.18,
+    0.125,
+    0.133
+   ]
+  },
+  {
+   "name": "C714C44",
+   "label": "C714C44",
+   "type": "Part::Feature",
+   "shape_type": "Compound",
+   "volume": 1359.07,
+   "area": 11325.6,
+   "bound_box": [
+    0.2,
+    0.2,
+    0.8,
+    127.8,
+    124.8,
+    2.0
+   ],
+   "solids": 3146,
+   "color": [
+    0.443,
+    0.298,
+    0.267
+   ]
+  },
+  {
+   "name": "C7F7F74",
+   "label": "C7F7F74",
+   "type": "Part::Feature",
+   "shape_type": "Compound",
+   "volume": 2483.14,
+   "area": 20692.8,
+   "bound_box": [
+    0.2,
+    0.2,
+    0.8,
+    127.8,
+    124.8,
+    2.0
+   ],
+   "solids": 5748,
+   "color": [
+    0.498,
+    0.498,
+    0.455
+   ]
+  },
+  {
+   "name": "CAFABA1",
+   "label": "CAFABA1",
+   "type": "Part::Feature",
+   "shape_type": "Compound",
+   "volume": 1264.03,
+   "area": 10533.6,
+   "bound_box": [
+    0.2,
+    0.2,
+    0.8,
+    127.8,
+    124.8,
+    2.0
+   ],
+   "solids": 2926,
+   "color": [
+    0.686,
+    0.671,
+    0.631
+   ]
+  }
+ ],
+ "files": [
+  "base_plate.stl",
+  "colour_1_2E2022.stl",
+  "colour_2_714C44.stl",
+  "colour_3_7F7F74.stl",
+  "colour_4_AFABA1.stl",
+  "posterized_preview.png"
+ ],
+ "made_by": "FreeCAD 1.0.2"
+}

@@ -1,0 +1,34 @@
+{
+ "script": "examples/15 Multi star vase/Multistarvase.py",
+ "error": null,
+ "seconds": 0.69,
+ "documents": [
+  "Mutli Stars"
+ ],
+ "objects": [
+  {
+   "name": "ExtrudedVase",
+   "label": "ExtrudedVase",
+   "type": "Part::Feature",
+   "shape_type": "Compound",
+   "volume": 31260.0,
+   "area": 44598.4,
+   "bound_box": [
+    -28.5317,
+    -30.0,
+    0.0,
+    76.5317,
+    30.0,
+    94.0
+   ],
+   "solids": 1,
+   "color": [
+    0.678,
+    0.71,
+    0.741
+   ]
+  }
+ ],
+ "files": [],
+ "made_by": "FreeCAD 1.0.2"
+}

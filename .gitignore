@@ -1,3 +1,9 @@
+# tiny-freecad
+# STL files written by the README's example command
+out/
+# STL files and previews the image examples write beside themselves
+examples/*/stl/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]

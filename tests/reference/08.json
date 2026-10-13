@@ -1,0 +1,56 @@
+{
+ "script": "examples/08 Box with Flush Lid/BoxFlushLid.py",
+ "error": null,
+ "seconds": 0.86,
+ "documents": [
+  "Box With Lid"
+ ],
+ "objects": [
+  {
+   "name": "Desk_Tidy_Box",
+   "label": "Desk_Tidy_Box",
+   "type": "Part::Feature",
+   "shape_type": "Compound",
+   "volume": 10164.0,
+   "area": 11504.0,
+   "bound_box": [
+    0.0,
+    0.0,
+    0.0,
+    50.0,
+    50.0,
+    18.0
+   ],
+   "solids": 1,
+   "color": [
+    0.678,
+    0.71,
+    0.741
+   ]
+  },
+  {
+   "name": "Desk_Tidy_Lid",
+   "label": "Desk_Tidy_Lid",
+   "type": "Part::Feature",
+   "shape_type": "Compound",
+   "volume": 3676.0,
+   "area": 7552.0,
+   "bound_box": [
+    60.0,
+    0.0,
+    0.0,
+    110.0,
+    50.0,
+    7.0
+   ],
+   "solids": 1,
+   "color": [
+    0.678,
+    0.71,
+    0.741
+   ]
+  }
+ ],
+ "files": [],
+ "made_by": "FreeCAD 1.0.2"
+}

@@ -1,0 +1,23 @@
+[build-system]
+requires = ["setuptools>=77"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "tiny-freecad"
+version = "0.1.0"
+description = "A small subset of FreeCAD's Python interface on the manifold3d geometry engine"
+readme = "README.md"
+requires-python = ">=3.9"
+license = "MIT"
+license-files = ["LICENSE", "examples/LICENSE.md"]
+authors = [{ name = "Rob Miles" }]
+dependencies = ["manifold3d>=3.0", "numpy", "fonttools"]
+
+[project.optional-dependencies]
+examples = ["Pillow"]
+view = ["pyvista"]
+
+[tool.setuptools]
+packages = ["tinyfreecad"]
+# The stand-ins for FreeCAD's own modules, so `import FreeCAD` works.
+py-modules = ["FreeCAD", "FreeCADGui", "Part", "Draft", "Mesh"]

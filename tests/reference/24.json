@@ -1,0 +1,129 @@
+{
+ "script": "examples/24 LineScan from image/LineScanFromImage.py",
+ "error": null,
+ "seconds": 5.58,
+ "documents": [
+  "DotImage"
+ ],
+ "objects": [
+  {
+   "name": "Base",
+   "label": "Base",
+   "type": "Part::Feature",
+   "shape_type": "Solid",
+   "volume": 12207.0,
+   "area": 30912.9,
+   "bound_box": [
+    0.0,
+    0.0,
+    0.0,
+    125.0,
+    122.07,
+    0.8
+   ],
+   "solids": 1,
+   "color": [
+    0.1,
+    0.1,
+    0.1
+   ]
+  },
+  {
+   "name": "C2E2022",
+   "label": "C2E2022",
+   "type": "Part::Feature",
+   "shape_type": "Compound",
+   "volume": 2754.27,
+   "area": 14585.1,
+   "bound_box": [
+    0.195312,
+    4.10156,
+    0.8,
+    111.133,
+    115.039,
+    2.0
+   ],
+   "solids": 422,
+   "color": [
+    0.18,
+    0.125,
+    0.133
+   ]
+  },
+  {
+   "name": "C714C44",
+   "label": "C714C44",
+   "type": "Part::Feature",
+   "shape_type": "Compound",
+   "volume": 1929.2,
+   "area": 10983.0,
+   "bound_box": [
+    0.195312,
+    0.195312,
+    0.8,
+    124.805,
+    121.875,
+    2.0
+   ],
+   "solids": 841,
+   "color": [
+    0.443,
+    0.298,
+    0.267
+   ]
+  },
+  {
+   "name": "C7F7F74",
+   "label": "C7F7F74",
+   "type": "Part::Feature",
+   "shape_type": "Compound",
+   "volume": 3693.33,
+   "area": 20060.1,
+   "bound_box": [
+    0.195312,
+    0.195312,
+    0.8,
+    124.805,
+    121.875,
+    2.0
+   ],
+   "solids": 923,
+   "color": [
+    0.498,
+    0.498,
+    0.455
+   ]
+  },
+  {
+   "name": "CAFABA1",
+   "label": "CAFABA1",
+   "type": "Part::Feature",
+   "shape_type": "Compound",
+   "volume": 1879.49,
+   "area": 10211.5,
+   "bound_box": [
+    0.195312,
+    0.195312,
+    0.8,
+    124.805,
+    121.875,
+    2.0
+   ],
+   "solids": 472,
+   "color": [
+    0.686,
+    0.671,
+    0.631
+   ]
+  }
+ ],
+ "files": [
+  "base_plate.stl",
+  "colour_1_2E2022.stl",
+  "colour_2_714C44.stl",
+  "colour_3_7F7F74.stl",
+  "colour_4_AFABA1.stl",
+  "posterized_preview.png"
+ ],
+ "made_by": "FreeCAD 1.0.2"
+}

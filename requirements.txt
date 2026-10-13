@@ -1,0 +1,10 @@
+manifold3d>=3.0
+numpy
+fonttools
+# Only the image examples (22-25, 28, 29) need Pillow:
+Pillow
+# The 3D view (python -m tinyfreecad without --no-view):
+pyvista
+# tiny-freecad itself, "editable": this folder goes on the environment's
+# module search path, so `import FreeCAD` works from any folder.
+-e .

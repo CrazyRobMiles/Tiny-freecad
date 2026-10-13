@@ -1,0 +1,100 @@
+{
+ "script": "examples/03 Secret Encoder/SecretEncoder.py",
+ "error": null,
+ "seconds": 13.8,
+ "documents": [
+  "Secret Encoder"
+ ],
+ "objects": [
+  {
+   "name": "Card0",
+   "label": "Card0",
+   "type": "Part::Feature",
+   "shape_type": "Compound",
+   "volume": 5328.0,
+   "area": 9024.0,
+   "bound_box": [
+    101.0,
+    0.0,
+    0.0,
+    197.0,
+    36.0,
+    2.0
+   ],
+   "solids": 1,
+   "color": [
+    0.0,
+    0.5,
+    0.0
+   ]
+  },
+  {
+   "name": "Result0",
+   "label": "Result0",
+   "type": "Part::Feature",
+   "shape_type": "Compound",
+   "volume": 5328.0,
+   "area": 9024.0,
+   "bound_box": [
+    0.0,
+    0.0,
+    0.0,
+    96.0,
+    36.0,
+    2.0
+   ],
+   "solids": 1,
+   "color": [
+    0.0,
+    0.5,
+    0.0
+   ]
+  },
+  {
+   "name": "Card1",
+   "label": "Card1",
+   "type": "Part::Feature",
+   "shape_type": "Compound",
+   "volume": 5312.0,
+   "area": 9040.0,
+   "bound_box": [
+    101.0,
+    41.0,
+    0.0,
+    197.0,
+    77.0,
+    2.0
+   ],
+   "solids": 1,
+   "color": [
+    0.5,
+    0.0,
+    0.5
+   ]
+  },
+  {
+   "name": "Result1",
+   "label": "Result1",
+   "type": "Part::Feature",
+   "shape_type": "Compound",
+   "volume": 5312.0,
+   "area": 9040.0,
+   "bound_box": [
+    0.0,
+    0.0,
+    2.0,
+    96.0,
+    36.0,
+    4.0
+   ],
+   "solids": 1,
+   "color": [
+    0.5,
+    0.0,
+    0.5
+   ]
+  }
+ ],
+ "files": [],
+ "made_by": "FreeCAD 1.0.2"
+}

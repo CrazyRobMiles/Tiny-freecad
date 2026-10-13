@@ -1,0 +1,153 @@
+{
+ "script": "examples/25 Image Puzzle/ImagePuzzle.py",
+ "error": null,
+ "seconds": 6.86,
+ "documents": [
+  "PanelMosaic"
+ ],
+ "objects": [
+  {
+   "name": "Base",
+   "label": "Base",
+   "type": "Part::Feature",
+   "shape_type": "Compound",
+   "volume": 8192.0,
+   "area": 21811.2,
+   "bound_box": [
+    0.0,
+    0.0,
+    0.0,
+    131.0,
+    83.0,
+    0.8
+   ],
+   "solids": 16,
+   "color": [
+    0.1,
+    0.1,
+    0.1
+   ]
+  },
+  {
+   "name": "PuzzleTray",
+   "label": "PuzzleTray",
+   "type": "Part::Feature",
+   "shape_type": "Compound",
+   "volume": 34757.5,
+   "area": 33756.1,
+   "bound_box": [
+    -10.0,
+    -10.0,
+    0.0,
+    139.0,
+    91.0,
+    5.2
+   ],
+   "solids": 1,
+   "color": [
+    0.65,
+    0.55,
+    0.4
+   ]
+  },
+  {
+   "name": "C000000",
+   "label": "C000000",
+   "type": "Part::Feature",
+   "shape_type": "Compound",
+   "volume": 4402.8,
+   "area": 17907.6,
+   "bound_box": [
+    0.0,
+    0.0,
+    0.8,
+    131.0,
+    83.0,
+    2.0
+   ],
+   "solids": 735,
+   "color": [
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  {
+   "name": "C1D1C06",
+   "label": "C1D1C06",
+   "type": "Part::Feature",
+   "shape_type": "Compound",
+   "volume": 1633.2,
+   "area": 8078.8,
+   "bound_box": [
+    0.0,
+    0.0,
+    0.8,
+    131.0,
+    83.0,
+    2.0
+   ],
+   "solids": 871,
+   "color": [
+    0.114,
+    0.11,
+    0.024
+   ]
+  },
+  {
+   "name": "CB78907",
+   "label": "CB78907",
+   "type": "Part::Feature",
+   "shape_type": "Compound",
+   "volume": 2977.2,
+   "area": 13078.8,
+   "bound_box": [
+    0.0,
+    0.0,
+    0.8,
+    131.0,
+    83.0,
+    2.0
+   ],
+   "solids": 901,
+   "color": [
+    0.718,
+    0.537,
+    0.027
+   ]
+  },
+  {
+   "name": "CF9F305",
+   "label": "CF9F305",
+   "type": "Part::Feature",
+   "shape_type": "Compound",
+   "volume": 3274.8,
+   "area": 13495.6,
+   "bound_box": [
+    0.0,
+    0.0,
+    0.8,
+    131.0,
+    83.0,
+    2.0
+   ],
+   "solids": 620,
+   "color": [
+    0.976,
+    0.953,
+    0.02
+   ]
+  }
+ ],
+ "files": [
+  "base_plate.stl",
+  "colour_1_000000.stl",
+  "colour_2_1D1C06.stl",
+  "colour_3_B78907.stl",
+  "colour_4_F9F305.stl",
+  "posterized_preview.png",
+  "posterized_preview_with_panels.png",
+  "puzzle_tray.stl"
+ ],
+ "made_by": "FreeCAD 1.0.2"
+}
